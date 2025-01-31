@@ -21,3 +21,7 @@ Check out the live version of my portfolio here:
 - **Interactive Elements**: Smooth scrolling, animations, and dynamic content.
 - **Project Showcase**: Highlights my work experience, skills, and projects.
 
+## 🙏 Acknowledgments
+- HTML5 UP for the template.
+- Font Awesome for the icons.
+- Formspree for the contact form functionality.
