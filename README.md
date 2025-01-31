@@ -4,7 +4,8 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 🚀 Live Demo
 Check out the live version of my portfolio here:  
-[**(https://luajianwei.github.io/my-website/#)**]((https://luajianwei.github.io/my-website/#))
+[**(https://luajianwei.github.io/my-website/#)**](https://luajianwei.github.io/my-website/#)
+
 
 ## 🛠️ Technologies Used
 - **HTML5**: For structuring the website.
@@ -13,5 +14,10 @@ Check out the live version of my portfolio here:
 - **Font Awesome**: For icons.
 - **Formspree**: For handling contact form submissions.
 
-## 📂 Project Structure
-Here’s an overview of the files and folders in this repository:
+
+## ✨ Features
+- **Responsive Design**: The portfolio is fully responsive and works on all devices (desktop, tablet, mobile).
+- **Contact Form**: Integrated with **Formspree** to handle form submissions.
+- **Interactive Elements**: Smooth scrolling, animations, and dynamic content.
+- **Project Showcase**: Highlights my work experience, skills, and projects.
+
